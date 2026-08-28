@@ -1,4 +1,11 @@
 {
+  "DM-LOANS-QC70-PQPW": {
+    "owner": "test",
+    "script": "dm-loans",
+    "boundIP": "",
+    "status": "active",
+    "createdAt": "2026-08-28"
+  },
   "DM-LOANS-7FCL-NMVM": {
     "owner": "sultan albaazie",
     "script": "dm-loans",
