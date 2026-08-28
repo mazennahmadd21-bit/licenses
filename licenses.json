@@ -1,4 +1,11 @@
 {
+  "DM-LOANS-TNBO-TEOK": {
+    "owner": "TEST",
+    "script": "dm-loans",
+    "boundIP": "",
+    "status": "active",
+    "createdAt": "2026-08-28"
+  },
   "DM-LOANS-MATRIX-A1C3": {
     "owner": "DEV MATRIX Master",
     "script": "dm-loans",
