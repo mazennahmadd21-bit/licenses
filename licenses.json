@@ -12,12 +12,5 @@
     "boundIP": "",
     "status": "active",
     "createdAt": "2026-08-28"
-  },
-  "DM-SMARTKEY-MATRIX-A1C3": {
-    "owner": "DEV MATRIX Master",
-    "script": "lux_smartkey",
-    "boundIP": "",
-    "status": "active",
-    "createdAt": "2026-08-28"
   }
 }
