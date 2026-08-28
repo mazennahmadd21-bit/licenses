@@ -1,11 +1,4 @@
 {
-  "DM-LOANS-QC70-PQPW": {
-    "owner": "test",
-    "script": "dm-loans",
-    "boundIP": "",
-    "status": "suspended",
-    "createdAt": "2026-08-28"
-  },
   "DM-LOANS-7FCL-NMVM": {
     "owner": "sultan albaazie",
     "script": "dm-loans",
@@ -17,7 +10,7 @@
     "owner": "DEV MATRIX Master",
     "script": "dm-loans",
     "boundIP": "",
-    "status": "suspended",
+    "status": "active",
     "createdAt": "2026-08-28"
   },
   "DM-SMARTKEY-MATRIX-A1C3": {
